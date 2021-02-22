@@ -24,20 +24,19 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/assets/css/animate.min.css",
-              "src/assets/css/bootstrap.min.css",
-              "src/assets/css/jquery-ui.css",
-              "src/assets/css/jquery.mCustomScrollbar.min.css",
-              "src/assets/css/meanMenu.css",
-              "src/assets/css/nice-select.css",
-              "src/assets/css/normalize.css",
-              "src/assets/css/owl.carousel.min.css",
-              "src/assets/css/responsive.css",
-              "src/assets/css/slick.css",
-              "src/assets/css/style.css"
+              "src/assets/css/fontawesome-all.min.css",
+              "src/assets/css/main.css",
+              "src/assets/css/noscript.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/breakpoints.min.js",
+              "src/assets/js/browser.min.js",
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery.scrollex.min.js",
+              "src/assets/js/jquery.scrolly.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/util.js"
+            ]
           },
           "configurations": {
             "production": {
